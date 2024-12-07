@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
 public class PokemonDataParser {
     public static void main(String[] args) {
         // Specify the path to the file
@@ -41,7 +40,9 @@ public class PokemonDataParser {
                 System.out.print(line.substring(8,eqi).trim());
                 System.out.println(");");
                 if(count==898)break;
+                sc.close();
             }
         }catch(FileNotFoundException e){}
+        
     }
 }

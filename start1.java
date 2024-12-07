@@ -1,5 +1,5 @@
 import java.util.*;
-import from_prev.*;
+//import from_prev.*;
 import from_prev.Move;
 import from_prev.Pokemon;
 import from_prev.generate_battle_data;
@@ -46,6 +46,7 @@ public class start1 {
                 System.out.println("Exiting....");
                 System.exit(0);
             }
+            sc.close();
         }
         catch(Exception e)
         {

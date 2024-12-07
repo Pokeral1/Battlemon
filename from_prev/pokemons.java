@@ -1,5 +1,5 @@
 package from_prev;
-import java.util.*;
+//import java.util.*;
 public class pokemons {
     public static void createPokemons(){
         Pokemon bulbasaur = new Pokemon(1, "Bulbasaur", 45, 49, 49, 45, 65, 65, PokemonType.grass, PokemonType.poison, 0.70, 6.90);

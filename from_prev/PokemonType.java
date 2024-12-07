@@ -1,5 +1,5 @@
 package from_prev;
-import java.util.*;
+//import java.util.*;
 public class PokemonType {
 
     private final int typeNumber;

@@ -1,10 +1,10 @@
 package Battle_Engine;
 
 import from_prev.*;
-import from_prev.Move;
-import from_prev.Pokemon;
-import from_prev.generate_battle_data;
-import from_prev.pokemons;
+//import from_prev.Move;
+//import from_prev.Pokemon;
+//import from_prev.generate_battle_data;
+//import from_prev.pokemons;
 
 public class StatsCalc {
     public static void load_data(Pokemon p, int level) {
