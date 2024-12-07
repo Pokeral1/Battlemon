@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StatsCalc
+comment1.params=p\ level
+comment1.target=void\ load_data(from_prev.Pokemon,\ int)
+comment2.params=hp\ LEVEL
+comment2.target=int\ calc_hp(int,\ int)
+comment3.params=stat\ LEVEL
+comment3.target=int\ calc(int,\ int)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=pokemonID\ name\ hp\ attack\ defense\ specialAttack\ specialDefense\ speed\ type1\ type2\ height\ weight
+comment1.target=Pokemon(int,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ PokemonType,\ PokemonType,\ double,\ double)
+comment2.params=
+comment2.target=void\ printData()
+comment3.params=
+comment3.target=void\ printIntro()
+numComments=4

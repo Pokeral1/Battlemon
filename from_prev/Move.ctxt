@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Move
+comment1.params=name\ type\ category\ power\ accuracy\ totalPP
+comment1.target=Move(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ load_to_dict()
+comment3.params=name
+comment3.target=java.util.List\ move_at_level(java.lang.String)
+numComments=4
