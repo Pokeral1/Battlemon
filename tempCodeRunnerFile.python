@@ -1,2 +1,0 @@
-mylist=['CDA','105','DATA']
-print(mylist[1])
