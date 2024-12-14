@@ -1,12 +1,11 @@
 import java.util.*;
-//import from_prev.*;
-import from_prev.Move;
-import from_prev.Pokemon;
-import from_prev.generate_battle_data;
-import from_prev.pokemons;
 import java.util.stream.IntStream;
 import java.util.stream.Collectors;
 import Battle_Engine.*;
+import Database.Move;
+import Database.Pokemon;
+import Database.generate_battle_data;
+import Database.pokemons;
 public class start1 {
     public static void main(String args[]) {
         try{

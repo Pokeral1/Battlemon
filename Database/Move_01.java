@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 public class Move_01{
     static Object [] bulbasaur = { 1, Move.tackle,1, Move.growl,3, Move.vinewhip,6, Move.growth,9, Move.leechseed,12, Move.razorleaf,15, Move.poisonpowder,15, Move.sleeppowder,18, Move.seedbomb,21, Move.takedown,24, Move.sweetscent,27, Move.synthesis,30, Move.worryseed,33, Move.doubleedge,36, Move.solarbeam } ;
     static Object [] ivysaur = { 1, Move.tackle,1, Move.growl,1, Move.vinewhip,1, Move.growth,9, Move.leechseed,12, Move.razorleaf,15, Move.poisonpowder,15, Move.sleeppowder,20, Move.seedbomb,25, Move.takedown,30, Move.sweetscent,35, Move.synthesis,40, Move.worryseed,45, Move.doubleedge,50, Move.solarbeam } ;

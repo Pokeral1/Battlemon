@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 class Move_02{
     static Object [] electrode = { 1, Move.magneticflux,1, Move.charge,1, Move.tackle,1, Move.eerieimpulse,4, Move.thundershock,6, Move.eerieimpulse,9, Move.spark,11, Move.rollout,13, Move.screech,16, Move.chargebeam,20, Move.swift,22, Move.electroball,26, Move.selfdestruct,29, Move.lightscreen,36, Move.magnetrise,41, Move.discharge,47, Move.explosion,54, Move.gyroball,58, Move.mirrorcoat } ;
     static Object [] exeggcute = { 1, Move.absorb,1, Move.hypnosis,5, Move.reflect,10, Move.leechseed,15, Move.megadrain,20, Move.confusion,25, Move.synthesis,30, Move.bulletseed,35, Move.gigadrain,40, Move.extrasensory,45, Move.uproar,50, Move.worryseed,55, Move.solarbeam } ;

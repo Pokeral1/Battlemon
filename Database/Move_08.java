@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 class Move_08
 {
     static Object [] hawlucha = { 1, Move.tackle,1, Move.honeclaws,4, Move.wingattack,8, Move.detect,12, Move.aerialace,16, Move.encore,20, Move.featherdance,24, Move.submission,28, Move.bounce,32, Move.taunt,36, Move.roost,40, Move.swordsdance,44, Move.flyingpress,48, Move.highjumpkick,52, Move.endeavor,56, Move.skyattack } ;

@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 class Move_06
 {static Object [] oshawott = { 1, Move.tackle,5, Move.tailwhip,7, Move.watergun,11, Move.watersport,13, Move.focusenergy,17, Move.razorshell,19, Move.furycutter,23, Move.waterpulse,25, Move.revenge,29, Move.aquajet,31, Move.encore,35, Move.aquatail,37, Move.retaliate,41, Move.swordsdance,43, Move.hydropump } ;
     static Object [] dewott = { 1, Move.tackle,1, Move.tailwhip,1, Move.watergun,1, Move.watersport,5, Move.tailwhip,7, Move.watergun,11, Move.watersport,13, Move.focusenergy,18, Move.razorshell,21, Move.furycutter,26, Move.waterpulse,29, Move.revenge,34, Move.aquajet,37, Move.encore,42, Move.aquatail,45, Move.retaliate,50, Move.swordsdance,53, Move.hydropump } ;

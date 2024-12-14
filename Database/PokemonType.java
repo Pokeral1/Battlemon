@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 //import java.util.*;
 public class PokemonType {
 

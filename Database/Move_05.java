@@ -1,4 +1,4 @@
-package from_prev;
+package Database;
 class Move_05
 {static Object [] kricketot = { 1, Move.growl,1, Move.pound,6, Move.strugglebug,16, Move.bugbite } ;
     static Object [] kricketune = { 0, Move.furycutter,1, Move.growl,1, Move.pound,1, Move.strugglebug,1, Move.bugbite,14, Move.absorb,18, Move.sing,22, Move.focusenergy,26, Move.slash,30, Move.xscissor,34, Move.screech,36, Move.fellstinger,38, Move.taunt,42, Move.nightslash,44, Move.stickyweb,46, Move.bugbuzz,50, Move.perishsong } ;
