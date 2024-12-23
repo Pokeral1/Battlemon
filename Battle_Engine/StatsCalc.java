@@ -19,8 +19,8 @@ public class StatsCalc {
         arr[3] = SPATK;
         arr[4] = SPDEF;
         arr[5] = SPEED;
-        for (int i = 0; i < arr.length; i++)
-            System.out.println(arr[i]);
+        // for (int i = 0; i < arr.length; i++)
+            // System.out.println(arr[i]);
 
     }
 

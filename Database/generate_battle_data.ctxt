@@ -2,6 +2,4 @@
 comment0.target=generate_battle_data
 comment1.params=
 comment1.target=int\ level()
-comment2.params=p\ level
-comment2.target=java.util.List\ getMoves(Pokemon,\ int)
-numComments=3
+numComments=2

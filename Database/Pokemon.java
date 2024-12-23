@@ -3,6 +3,8 @@ package Database;
 import java.util.*;
 
 public class Pokemon {
+
+    public static final int TOTAL_POKEMONS = 898;
     public static Map <Integer,Pokemon> get_by_name=new HashMap<>();
     public final String name;
     public final int hp;
@@ -120,5 +122,16 @@ public class Pokemon {
         }
 
     }
-}
+    public void printTypeOnly(){
+        if(this.type2==PokemonType.notype)
+        {
+            System.out.println("Type: "+this.type1.getTypeName());
 
+        }
+        else
+        {
+            System.out.println("Type: "+this.type1.getTypeName()+"/"+this.type2.getTypeName());
+        }
+
+    }
+}

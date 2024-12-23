@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=store_pokedat
+comment1.params=p\ level
+comment1.target=void\ map_name_to_level(Database.Pokemon,\ int)
+comment2.params=
+comment2.target=void\ process_pokemon_levels()
+comment3.params=p
+comment3.target=java.lang.Integer\ get_pokemon_level(Database.Pokemon)
+numComments=4
